@@ -2,7 +2,7 @@
 
 ## Part I - Tracking Major Weather Conditions around the World
 
-Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. 
+Created a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. Pulled data from the Open Weapther Maps API.
 
 Created a series of scatter plots to showcase the following relationships:
 
